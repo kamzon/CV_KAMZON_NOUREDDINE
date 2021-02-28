@@ -3,6 +3,6 @@ KAMZON NOUREDDINE -Resume
 ## Preview
 
 ### OpenFonts
-![alt tag](CV_KAMZON_NOUREDDINE.png)
+![alt tag](KAMZON_NOUREDDINE_Resume.png)
 
 
